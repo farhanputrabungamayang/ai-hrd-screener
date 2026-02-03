@@ -59,4 +59,4 @@ Ingin mencoba menjalankan aplikasi ini di komputer sendiri? Ikuti langkah beriku
 Aplikasi ini menggunakan API Pihak Ketiga (Google Gemini). Harap bijak dalam mengunggah data pribadi yang sensitif.
 
 ---
-Dibuat dengan ❤️ oleh [Farhan Putra Bungamayang]
+Dibuat dengan ❤️ oleh Farhan Putra
